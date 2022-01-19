@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="190dp"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="bottom"
+    android:background="#438DC8"
+
+    >
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/profile_icon"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/idForVisitorName"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="Visitor Name"
+        android:paddingTop="5dp"
+        android:textColor="#F3F3EF"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Member"
+        android:paddingTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="#FFFFFF"/>
+
+</LinearLayout>

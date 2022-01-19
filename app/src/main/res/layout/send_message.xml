@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#988E8E"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nameId"
+        android:hint="Enter your name"
+        android:layout_marginBottom="20dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/phoneId"
+        android:hint="Enter your phone number"
+        android:layout_marginBottom="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Inform us your problem"
+        android:textSize="24dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"
+        android:textColor="#B13F3F"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/messageId"
+        android:hint="Write your opinion"
+        android:layout_marginBottom="20dp"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="send"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Note: Your service is out commitment"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"
+        android:textColor="#0C0C0C"
+        />
+
+
+</LinearLayout>

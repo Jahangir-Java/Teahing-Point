@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#FCFDFC"
+    android:gravity="center"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/userName"
+            android:text="Hi, Md Jahangir"
+            android:textSize="@dimen/_24sdp"
+            android:textStyle="bold"
+            android:textColor="#4A304E"
+            android:layout_marginBottom="@dimen/_20sdp"/>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="@dimen/_10sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:padding="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_10sdp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/profile_image"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:textSize="@dimen/_17sdp"
+                    android:text="Welcome to my tutorial point"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            app:cardCornerRadius="@dimen/_10sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:padding="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_10sdp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Chemistry tutorial"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_20sdp"/>
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_180sdp"
+                    android:id="@+id/chemistryImgButtonId"
+                    android:src="@drawable/chemistry"
+                    />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_70sdp"
+                    android:id="@+id/chemistryBtnId"
+                    android:text="admit our full course"
+                    android:background="#2C2828"
+                    android:textSize="@dimen/_12sdp"
+                    android:textColor="#FDFCFC"
+                    />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            app:cardCornerRadius="@dimen/_10sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:padding="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_10sdp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Physics tutorial"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_20sdp"/>
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_180sdp"
+                    android:id="@+id/physicsImgButtonId"
+                    android:src="@drawable/phisix"
+                    />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_70sdp"
+                    android:id="@+id/phisixBtnId"
+                    android:text="admit our full course"
+                    android:background="#2C2828"
+                    android:textSize="@dimen/_12sdp"
+                    android:textColor="#FDFCFC"
+                    />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            app:cardCornerRadius="@dimen/_10sdp"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:padding="@dimen/_20sdp"
+            android:layout_marginEnd="@dimen/_10sdp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Mathematics tutorial"
+                    android:gravity="center"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_20sdp"/>
+                <ImageButton
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_180sdp"
+                    android:id="@+id/mathematicsImgButtonId"
+                    android:src="@drawable/mathmatics"
+                    />
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_70sdp"
+                    android:id="@+id/mathematicsBtnId"
+                    android:text="admit our full course"
+                    android:background="#2C2828"
+                    android:textSize="@dimen/_12sdp"
+                    android:textColor="#FDFCFC"
+                    />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+</ScrollView>

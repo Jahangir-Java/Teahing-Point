@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="#59A8CC"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="30dp"
+            android:textSize="24sp"
+            android:textAlignment="center"
+            android:textStyle="bold"/>
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:scaleType="fitXY"
+            android:layout_height="250dp"
+            android:src="@mipmap/ic_launcher"
+            />
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:text="@string/bangladesh_details"
+            android:layout_marginTop="24dp"
+            android:textSize="20dp"
+            android:layout_marginBottom="50dp"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+
+
+
+
+
+</ScrollView>

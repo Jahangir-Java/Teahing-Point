@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/ic_home">
+
+        </item>
+        <item
+            android:id="@+id/quiz"
+            android:title="Quiz"
+            android:icon="@drawable/quiz">
+
+        </item>
+        <item
+            android:id="@+id/tutorial"
+            android:title="Tutorial"
+            android:icon="@drawable/tutorial">
+        </item>
+        <item
+            android:id="@+id/countryDetails"
+            android:title="Country Details"
+            android:icon="@drawable/bangladesh">
+        </item>
+        <item
+            android:id="@+id/abbreviation"
+            android:title="Abbreviation"
+            android:icon="@drawable/abbreviation">
+        </item>
+
+
+    </group>
+    <item
+        android:title="more">
+        <menu>
+            <item
+                android:id="@+id/aboutApps"
+                android:title="About apps"
+                android:icon="@drawable/quistion_icon">
+            </item>
+            <item
+                android:id="@+id/message"
+                android:title="Send message"
+                android:icon="@drawable/exam">
+            </item>
+        </menu>
+    </item>
+
+</menu>

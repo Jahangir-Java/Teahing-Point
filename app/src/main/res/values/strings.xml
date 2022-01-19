@@ -1,0 +1,218 @@
+<resources>
+    <string name="app_name">TeachingPoint</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string-array name="abbreviation_list_header">
+        <item>ABC</item>
+        <item>API</item>
+        <item>JSTL</item>
+        <item>JSP</item>
+        <item>JSF</item>
+        <item>ADB</item>
+        <item>SDK</item>
+        <item>UI</item>
+        <item>JBM</item>
+        <item>JRE</item>
+        <item>MB</item>
+        <item>USB</item>
+        <item>RAM</item>
+        <item>ROM</item>
+        <item>CPU</item>
+        <item>ALU</item>
+        <item>ABC</item>
+        <item>API</item>
+        <item>JSTL</item>
+        <item>JSP</item>
+        <item>JSF</item>
+        <item>ADB</item>
+        <item>SDK</item>
+        <item>UI</item>
+        <item>JBM</item>
+        <item>JRE</item>
+        <item>MB</item>
+        <item>USB</item>
+        <item>RAM</item>
+        <item>ROM</item>
+        <item>CPU</item>
+        <item>ALU</item>
+    </string-array>
+
+    <string-array name="abbreviation_list_child">
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+        <item>
+            Advanced audio codding
+            \n\nAdvanced audio coding (AAC) is a technique used for compressing and encoding scheme digital audio files.
+        </item>
+    </string-array>
+    <string-array name="country_names">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Sri lanka</item>
+        <item>Pakistan</item>
+        <item>Bhutan</item>
+        <item>Maldives</item>
+        <item>Thailand</item>
+        <item>Japan</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Saudi Arabia</item>
+        <item>Korea</item>
+        <item>USA</item>
+        <item>Russia</item>
+        <item>France</item>
+        <item>Turkey</item>
+    </string-array>
+    <string name="bangladesh_details">
+        Bangladesh – one of the world’s most densely populated countries – faces many challenges despite reducing poverty and violence in recent years.\n\n
+        Potential sources of conflict still exist in the country, including political violence,
+        corruption, gender-based violence, organised crime, political polarisation,
+        low trust in security and justice institutions, and the growth of extremism.
+    </string>
+
+    <string name="pakistan_details">
+        Pakistan – one of the world’s most densely populated countries – faces many challenges despite reducing poverty and violence in recent years.\n\n
+        Potential sources of conflict still exist in the country, including political violence,
+        corruption, gender-based violence, organised crime, political polarisation,
+        low trust in security and justice institutions, and the growth of extremism.
+    </string>
+
+    <string name="india_details">
+        India – one of the world’s most densely populated countries – faces many challenges despite reducing poverty and violence in recent years.\n\n
+        Potential sources of conflict still exist in the country, including political violence,
+        corruption, gender-based violence, organised crime, political polarisation,
+        low trust in security and justice institutions, and the growth of extremism.
+    </string>
+    <string-array name="course_array">
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Mathematics</item>
+        <item>English</item>
+        <item>Accounting</item>
+        <item>marketing</item>
+    </string-array>
+
+</resources>
